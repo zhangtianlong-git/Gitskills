@@ -81,10 +81,25 @@ Add a JPG from our another repository using: `![picture4](https://github.com/zha
 We can link to `www.baidu.com` using: `[Baidu](http://www.baidu.com)`<br>
 [Baidu_link](https://www.baidu.com/)<br>
 We can link to any title in this log using: `[Go to the link](#title name)`<br>
-
 [return to the top](#readme)
 
-
+### *List*
+*****
+We may create a list using: `* name` , `- name` and `Tab (*or-) name`.Just as shown below.
+* name1
+- name2
+* name3
+	* name4
+		* name5
+			* name6
+			
+We can also replace (\*or-) by `n.`.
+1. name1
+2. name2
+3. name3
+	1. name4
+		1. name5
+			1. name6
 
 
 
