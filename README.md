@@ -57,7 +57,7 @@ I have add ``` at the beginning of nextrow.
 We can add a picture into our log using:\![picture name](URL of the picture)<br>
 Just like `![sky](http://p3.gexing.com/G1/M00/25/2E/rBACE1b_F9PSVH2VAACkQ3N6d8Y647_600x.jpg)`<br>
 
-![picture2](http://up.enterdesk.com/edpic_source/f9/d8/7d/f9d87d848593f07078ba328b132ab743.jpg)
+![picture2](http://img.zcool.cn/community/014cca554bfd99000001bf7289bb04.jpg)
 
 
 
