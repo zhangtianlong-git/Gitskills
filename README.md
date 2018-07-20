@@ -51,13 +51,24 @@ What is more. We can use \``` \```.
 I have add ``` at the beginning of lastrow.
 I have add ``` at the beginning of nextrow.
 ```
+We can also chage fonts, and just follow this table:
+
+|Syntax|Performance|
+|----|-----|
+|`*Italic1*`|*Italic1*|
+|`_Italic2_`| _Italic2_|
+|`**Bold1**`|**Bold1**|
+|`__Bold2__`|__Bold2__|
+|`This is ~~Strikethrough~~`|This is ~~Strikethrough~~|
+
+We can combine two or three of them when using.
 
 ### *Picture*
 *****
 We can add a picture into our log using:\![picture name](URL of the picture)<br>
-Just like `![sky](http://p3.gexing.com/G1/M00/25/2E/rBACE1b_F9PSVH2VAACkQ3N6d8Y647_600x.jpg)`<br>
+Just like `![sky](http://p3.gexing.com/G1/M00/25/2E/rBACE1b_F9PSVH2VAACkQ3N6d8Y647_600x.jpg "The Beautifual Sky!")`<br>
 
-![picture2](http://img.zcool.cn/community/014cca554bfd99000001bf7289bb04.jpg)
+![picture2](http://img.zcool.cn/community/014cca554bfd99000001bf7289bb04.jpg "The Beautifual Sky!")
 
 
 
