@@ -73,7 +73,7 @@ Just like `![sky](http://p3.gexing.com/G1/M00/25/2E/rBACE1b_F9PSVH2VAACkQ3N6d8Y6
 Now, we add a GIF from our own repository using: `![picture3](https://github.com/zhangtianlong-git/Gitskills/blob/master/03847e558aa91dca801219c77870fcf.gif)`
 
 ![picture3](https://github.com/zhangtianlong-git/Gitskills/blob/master/03847e558aa91dca801219c77870fcf.gif)<br>
-Add a JPG from our another repository.<br>
+Add a JPG from our another repository using: `![picture4](https://github.com/zhangtianlong-git/test-repository/blob/master/sky.jpg)`.<br>
 ![picture4](https://github.com/zhangtianlong-git/test-repository/blob/master/sky.jpg)
 
 
