@@ -11,16 +11,16 @@ https://github.com/guodongxiaren/README
 ![picture1](http://www.5068.com/uploads/allimg/171125/1-1G125100937.jpg)
 
 ## *OUTLINE*
-* **Line**
-* **Title**
-* **Text**
-* **Picture**
-* **Links**
-* **List**
-* **Quotation**
-* **Code**
-* **Table**
-* **Emotion**
+* [**Line**](#line)
+* [**Title**](#title)
+* [**Text**](#text)
+* [**Picture**](#picture)
+* [**Links**](#links)
+* [**List**](#list)
+* [**Quotation**](#quotation)
+* [**Code**](#code)
+* [**Table**](#table)
+* [**Emotion**](#emotion)
 
 ### *Line*
 **********
@@ -100,8 +100,52 @@ We can also replace (\*or-) by `n.`.
 	1. name4
 		1. name5
 			1. name6
+			
+A check box can be created using: `- [ ] name` or `- [x] name`.
+- [x] name1
+- [x] name2
+- [ ] name3
+- [ ] name4
 
+### *Quotation*
+*****
+We can add `>`,`>>`,`>>>` and so on at the beginning of one line.
+>one `>`
+>>two `>`
+>>>three `>`
 
+### *Code*
+*****
+FIirst line: ` ```programming language, just like (```python)`. Last line: ` ``` `.
+```python
+def add(a,b):
+	return a+b
+```
 
+### *Table*
+*****
+A table can be created like this:<br>
+```
+|     name1     |     name2     |     name3     |
+|:--------------|:-------------:|--------------:|
+| left justified | align center | right justified |
+```
 
+|     name1     |     name2     |     name3     |
+|:--------------|:-------------:|--------------:|
+| left justified | align center | right justified |
 
+### *Emotion*
+*****
+We can use `:blush:` to show :blush:, and it is really easy.
+At last, a tip may be added.
+
+	```diff
+	+ 鸟宿池边树，僧敲月下门
+	- 鸟宿池边树，僧推月下门
+	```
+
+```diff
++ 鸟宿池边树，僧敲月下门
+- 鸟宿池边树，僧推月下门
+```
