@@ -76,6 +76,12 @@ Now, we add a GIF from our own repository using: `![picture3](https://github.com
 Add a JPG from our another repository using: `![picture4](https://github.com/zhangtianlong-git/test-repository/blob/master/sky.jpg)`.<br>
 ![picture4](https://github.com/zhangtianlong-git/test-repository/blob/master/sky.jpg)
 
+### *links*
+*****
+We can link to `www.baidu.com` using: `[Baidu](http://www.baidu.com)`<br>
+[Baidu_link](www.baidu.com)<br>
+We can link to any title in this log using: `[Go to the link](#title name)`<br>
+[return to the top](#README SYNTAX LEARNING)
 
 
 
