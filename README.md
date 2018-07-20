@@ -40,7 +40,7 @@ Transform a word into title using "-------------"
 # Transform a word into title using "#"
 ## Transform a word into title using "##", and you can add more "#".
 
-### *text*
+### *Text*
 *****
 Add a "Tab" at the beginning of one line, and you can transform it into text formatting. Just as follows.
 
@@ -80,7 +80,7 @@ Add a JPG from our another repository using: `![picture4](https://github.com/zha
 *****
 We can link to `www.baidu.com` using: `[Baidu](http://www.baidu.com)`<br>
 [Baidu_link](https://www.baidu.com/)<br>
-We can link to any title in this log using: `[Go to the link](#title name)`<br>
+We can link to any title in this log using: `[Go to the link](#title name)`.--tip: write name in lowercase!<br>
 [return to the top](#readme)
 
 ### *List*
