@@ -151,5 +151,5 @@ At last, a tip may be added.
 - 鸟宿池边树，僧推月下门
 ```
 
-$$ f(x)=\int 2xdx $$
+$$f(x)=\int 2xdx$$
 
