@@ -1,6 +1,5 @@
 README SYNTAX LEARNING
 ==========
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 The aim of writing this log is to practice what I have learned from:<br>
 https://github.com/guodongxiaren/README
 ****
@@ -151,5 +150,4 @@ At last, a tip may be added.
 - 鸟宿池边树，僧推月下门
 ```
 
-$$f(x)=\int 2xdx$$
 
